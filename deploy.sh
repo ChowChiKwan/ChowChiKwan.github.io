@@ -18,7 +18,7 @@ fi
 git init
 git add -A
 git commit -m "${msg}"
-git push -f $githubUrl master # 推送到github
+git push -f $githubUrl homepage # 推送到github
 
 cd -
 rm -rf docs/.vitepress/dist
