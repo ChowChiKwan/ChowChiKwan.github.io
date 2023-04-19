@@ -2,7 +2,7 @@
 # 确保脚本抛出遇到的错误
 set -e
 npm run docs:build # 生成静态文件
-cd docs/.vuepress/dist # 进入生成的文件夹
+cd docs/.vitepress/dist # 进入生成的文件夹
 
 # deploy to github
 echo 'zhangpeiyao.cn' > CNAME
@@ -18,7 +18,7 @@ fi
 git init
 git add -A
 git commit -m "${msg}"
-git push -f $githubUrl homepage # 推送到github
+git push -f $githubUrl master # 推送到github
 
 cd -
-rm -rf docs/.vuepress/dist
+rm -rf docs/.vitepress/dist
