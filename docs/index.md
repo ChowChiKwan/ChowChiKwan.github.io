@@ -19,6 +19,6 @@ features:
   - title: 过程
     details: 有多少喜欢就有多少心酸...
   - title: 结局
-    details: 活在当下，珍惜眼前人...
+    details: 活在当下，珍惜眼前人...啦啦啦
 ---
 
