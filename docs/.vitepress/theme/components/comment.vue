@@ -10,7 +10,7 @@ import { onMounted } from "vue";
 const gitalk = new Gitalk({
   clientID: 'd155e925be86a8811994',
   clientSecret: '28ec6d7f02a636b4265dafa1ca2578e8f8866ee7',
-  repo: 'https://github.com/ChowChiKwan/ChowChiKwan.github.io',      // The repository of store comments,
+  repo: 'ChowChiKwan.github.io',      // The repository of store comments,
   owner: 'ChowChiKwan',
   admin: ['ChowChiKwan'],
   id: window.location.pathname,      // Ensure uniqueness and length less than 50
