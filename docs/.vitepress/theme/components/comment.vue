@@ -13,7 +13,7 @@ const gitalk = new Gitalk({
   repo: 'https://github.com/ChowChiKwan/ChowChiKwan.github.io',      // The repository of store comments,
   owner: 'ChowChiKwan',
   admin: ['ChowChiKwan'],
-  id: location.pathname,      // Ensure uniqueness and length less than 50
+  id: window.location.pathname,      // Ensure uniqueness and length less than 50
   distractionFreeMode: true  // Facebook-like distraction free mode
 });
 onMounted(() => {
