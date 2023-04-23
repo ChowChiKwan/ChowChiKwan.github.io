@@ -1,3 +1,7 @@
+---
+outline: deep
+---
+
 # Diary
 
 ## 2022-11-27
@@ -12,7 +16,7 @@ import { encounter } from 'BadmintonGroup';
 encounter(zpy, zzj);
 ```
 
-## 2022-01-01
+## 2023-01-01 <sup class="zpy-badge zpy-badge--fix" data-content="臭宝说时间错了" />
 
 这是2023年的元旦，我们相约去了`华侨城欢乐海岸`，简简单单的逛了一圈，笑死。
 
@@ -39,8 +43,7 @@ encounter(zpy, zzj);
 console.warn('我们时日无多，让我们好好珍惜剩下的日子，不要吵架了')
 
 ```
-
-<img src="https://mms2.baidu.com/it/u=1995593949,527722394&fm=253&app=120&f=JPEG&fmt=auto&q=75?w=503&h=500" />
+<img src="https://mapdownload5.midea.com/file/v5/app/download/561378/public/muc/photo/4487748959397888?1681111581463" />
 
 <script setup>
 import Comment from './.vitepress/theme/components/comment.vue';
