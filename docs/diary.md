@@ -16,7 +16,7 @@ import { encounter } from 'BadmintonGroup';
 encounter(zpy, zzj);
 ```
 
-## 2023-01-01 <sup class="zpy-badge zpy-badge--fix" data-content="臭宝说时间错了" />
+## 2023-01-01 <sup class="zpy-badge zpy-badge--fix" data-content="臭宝说时间错了：2022 -> 2023" />
 
 这是2023年的元旦，我们相约去了`华侨城欢乐海岸`，简简单单的逛了一圈，笑死。
 
