@@ -40,7 +40,7 @@ console.warn('我们时日无多，让我们好好珍惜剩下的日子，不要
 
 ```
 
-<img src="https://mapdownload5.midea.com/file/v5/app/download/561378/public/muc/photo/4487748959397888?1681111581463" />
+<img src="https://mms2.baidu.com/it/u=1995593949,527722394&fm=253&app=120&f=JPEG&fmt=auto&q=75?w=503&h=500" />
 
 <script setup>
 import Comment from './.vitepress/theme/components/comment.vue';
