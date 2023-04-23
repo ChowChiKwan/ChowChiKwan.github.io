@@ -1,6 +1,6 @@
 // .vitepress/theme/index.js
 import DefaultTheme from 'vitepress/theme';
-// import './custom.css';
+import './custom.css';
 import Comment from "./components/comment.vue";
 // import 'many-pictures/es/style.css'
 // import manyPictures from 'many-pictures';
