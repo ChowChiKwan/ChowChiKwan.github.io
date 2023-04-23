@@ -25,6 +25,10 @@ export default defineConfig({
     socialLinks: [
       // { icon: 'github', link: 'https://github.com/ChowChiKwan' }
       { icon: 'github', link: 'tencent://message/?uin=953748496&Site=&Menu=yes' }
-    ]
-  }
+    ],
+    
+    search: {
+      provider: 'local'
+    }
+  },
 })
