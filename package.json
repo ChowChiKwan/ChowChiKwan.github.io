@@ -16,7 +16,7 @@
   "author": "joooooo",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.72"
+    "vitepress": "^1.0.0-alpha.73"
   },
   "dependencies": {
     "gitalk": "1.8.0"
