@@ -88,5 +88,3 @@ import { encounter } from 'BadmintonGroup';
 
 encounter(zpy, zzj);
 ```
-
-
