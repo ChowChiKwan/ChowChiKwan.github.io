@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=108318&auto=1&height=66"></iframe>
+
 # Diary
 
 ## 2022-11-27
@@ -110,9 +112,15 @@ console.warn('我们时日无多，让我们好好珍惜剩下的日子，不要
 - 好想见你。
 - 好想你。
 
+## 2023-05-27
+
+- 好久没写了。
+- 好不容易维持的关系，瞬间崩塌。
+
 <img src="https://mms2.baidu.com/it/u=1995593949,527722394&fm=253&app=120&f=JPEG&fmt=auto&q=75?w=503&h=500" />
 
 <script setup>
 import Comment from './.vitepress/theme/components/comment.vue';
 </script>
 <Comment />
+
