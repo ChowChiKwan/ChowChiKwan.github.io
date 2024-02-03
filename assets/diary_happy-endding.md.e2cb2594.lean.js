@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,V as o}from"./chunks/framework.a7a77f7d.js";const D=JSON.parse('{"title":"Opening soon","description":"","frontmatter":{},"headers":[],"relativePath":"diary/happy-endding.md"}'),e={name:"diary/happy-endding.md"},p=o("",4),l=[p];function t(c,r,i,y,d,F){return n(),a("div",null,l)}const h=s(e,[["render",t]]);export{D as __pageData,h as default};

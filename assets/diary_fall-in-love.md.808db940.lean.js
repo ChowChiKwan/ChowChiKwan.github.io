@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,V as l}from"./chunks/framework.a7a77f7d.js";const _=JSON.parse('{"title":"Always","description":"","frontmatter":{},"headers":[],"relativePath":"diary/fall-in-love.md"}'),o={name:"diary/fall-in-love.md"},e=l("",4),p=[e];function t(c,r,i,y,D,F){return a(),n("div",null,p)}const A=s(o,[["render",t]]);export{_ as __pageData,A as default};
